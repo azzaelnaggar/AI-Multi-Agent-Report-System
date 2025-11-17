@@ -1,0 +1,32 @@
+{
+  "topic": "n8n",
+  "timestamp": "2025-11-16T21:57:56.826781",
+  "hits": [
+    {
+      "title": "AI Workflow Automation Platform & Tools - n8n",
+      "url": "https://n8n.io/",
+      "snippet": "Build with the precision of code or the speed of drag-n-drop. Host with on-prem control or in-the-cloud convenience. n8n gives you more freedom to implement multi-step AI agents and integrate apps than any other tool."
+    },
+    {
+      "title": "GitHub - n8n-io/n8n: Fair-code workflow automation platform with …",
+      "url": "https://github.com/n8n-io/n8n",
+      "snippet": "We read every piece of feedback, and take your input very seriously."
+    },
+    {
+      "title": "What is n8n - revolutionize workflow automation - Hostinger",
+      "url": "https://www.hostinger.com/tutorials/what-is-n8n",
+      "snippet": "Oct 17, 2025"
+    },
+    {
+      "title": "n8n - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/data-science/what-is-n8n/",
+      "snippet": "n8n an open-source workflow automation platform, enables users to visually create workflows with a node-based interface. Unlike typical no-code tools, it supports developers with JavaScript, API calls and self-hosting. With over 200 integrations like Google Sheets, Slack, GitHub, etc. It offers cloud-based and self-hosted options, providing businesses flexibility in workflow management."
+    },
+    {
+      "title": "n8n - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/N8n",
+      "snippet": "n8n (pronounced \"n-eight-n\") is a workflow automation platform developed by n8n GmbH, headquartered in Berlin, Germany. The software provides a visual, node-based editor for …"
+    }
+  ],
+  "raw": "[]"
+}

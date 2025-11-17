@@ -41,7 +41,7 @@ ollama serve
 
 ## Streamlit 
 
-![UI Preview](./assets/Screenshot 2025-11-17 124933.png)
+![UI Preview](assets/Screenshot-out.png.png)
 
 
 

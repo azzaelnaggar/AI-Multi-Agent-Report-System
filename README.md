@@ -34,10 +34,6 @@ The project includes a clean Streamlit interface and supports both English and A
 5. Output     → Saves as Markdown, HTML, PDF
 ![UI Preview](./assets/flowchart.png)
 
-#### Troubleshooting
-- Model not responding
-ollama list
-ollama serve
 
 ## Streamlit 
 

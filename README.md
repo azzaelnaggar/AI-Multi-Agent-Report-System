@@ -17,12 +17,14 @@ The project includes a clean Streamlit interface and supports both English and A
 
 
 ## Running the System
-
-
 1- pip install -r requirements.txt
+
 2- ollama pull llama3.2:1b   
+
 3- ollama pull gemma3:latest
+
 4- streamlit run app.py
+
 5- Then open: http://localhost:8501
 
 ### Workflow Overview
